@@ -1,2 +1,7 @@
 # CompilationPrincipleStudy
- Exercises in the process of learning compilation principles
+
+
+
+#### 《Compilers: Principles, Techniques, and Tools》(Dragon book) pseudo code and some exercises C++ implementation ####
+
+
